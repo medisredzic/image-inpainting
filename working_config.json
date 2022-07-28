@@ -1,0 +1,13 @@
+{
+  "results_path": "results",
+  "device": "cuda",
+  "learningrate": 1e-3,
+  "weight_decay": 1e-5,
+  "n_updates": 50000,
+  "network_config": {
+    "n_hidden_layers": 5,
+    "n_in_channels": 3,
+    "n_kernels": 64,
+    "kernel_size": 3
+  }
+}
