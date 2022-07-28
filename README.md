@@ -6,9 +6,6 @@ We had 30.000 samples, which were seperated as follows 18.000 for training, 6000
 
 ### Structure
 
-Having a tree with the files and folders is nice to get an overview.
-However, this is sometimes tedious to maintain and omitted.
-
 ```
 |- architectures.py
 |    Classes and functions for network architectures
