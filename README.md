@@ -10,7 +10,6 @@ Having a tree with the files and folders is nice to get an overview.
 However, this is sometimes tedious to maintain and omitted.
 
 ```
-example_project
 |- architectures.py
 |    Classes and functions for network architectures
 |- datasets.py
